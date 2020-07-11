@@ -1,6 +1,6 @@
 # PyChess
 
-PyChess is a Python chess game.
+PyChess is a Python chess game (UNFINISHED).
 
 ## Installation
 
